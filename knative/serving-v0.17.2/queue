@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/queue@sha256:492eff7822d56ff86e29c35eb2fcc2c9edceb2a11ba129a783cec9a1bac806b3
